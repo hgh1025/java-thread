@@ -3,6 +3,8 @@
 spring thread에 대해서 학습합니다.
 
 - section 1. 운영 체제 기본
+병렬성과 동시성 조합: ThreadPoolExcutor > 병렬성으로 처리 성능을 극대화 하고 동시서응로 CPU 자원을 효율적으로 운용한다.
+Parallelism - Divid and Conquer: ForkJoinPool > 하나의 태스크를 서버 태스크로 분할하여 병렬처리함으로써 전체 작업 성능을 높인다.
 
 - section 2. Java Thread Fundamentals - 스레드 생성 및 실행 구조
 
